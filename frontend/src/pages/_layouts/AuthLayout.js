@@ -15,6 +15,8 @@ export const useStyles = makeStyles(theme => ({
   },
   logo: {
     marginTop: '30px',
+    width: '45px',
+    height: '49px',
     color: theme.palette.primary.contrastText,
   },
   copyright: {
@@ -43,6 +45,7 @@ export const useStyles = makeStyles(theme => ({
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'space-between',
+    alignItems: 'center'
   },
   painelRight: {
     display: 'flex',
