@@ -3,10 +3,10 @@ import * as path from 'path';
 
 const options: TypeOrmModuleOptions = {
     type: 'mysql',
-    host: 'mysql',
+    host: 'localhost',
     port: 3306,
     username: 'root',
-    password: 'root',
+    password: '',
     database: 'learninglanguage',
     synchronize: false,
     logging: false,
