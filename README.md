@@ -4,7 +4,7 @@ Projeto realizado na escola de TI do curso de análise e desenvolvimento de sist
 
 <br>
 
-![](https://s6.gifyu.com/images/myway.gif)
+<img src="https://i.ibb.co/ZcpLWxL/myway.gif" alt="GIF da Aplicação" width="800" heigh="600"/>
 
 # 💻 Tecnologias
 
